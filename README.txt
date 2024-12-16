@@ -15,3 +15,6 @@ npx cap add android
 npm install @capacitor-mlkit/barcode-scanning@next
 
 npx cap sync
+
+https://github.com/LucasCampos2/Datafinal
+Deploy: https://datadef.onrender.com/
